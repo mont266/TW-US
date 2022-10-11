@@ -40,7 +40,7 @@ const PricingStyleTwo = () => {
                             </div>
                             
                             <div className="pricing-footer">
-                                <Link to="https://checkoutpage.co/c/talismanwebs/basic-seo-audit" className="btn btn-primary cp-button">
+                                <Link to="https://checkoutpage.co/c/talismanwebs/basic-seo-audit-3" className="btn btn-primary cp-button">
                                     Buy Now
                                 </Link>
                             </div>
@@ -72,7 +72,7 @@ const PricingStyleTwo = () => {
                             </div>
                             
                             <div className="pricing-footer">
-                                <Link to="https://checkoutpage.co/c/talismanwebs/advanced-seo-audit" className="btn btn-primary cp-button">
+                                <Link to="https://checkoutpage.co/c/talismanwebs/advanced-seo-audit-2" className="btn btn-primary cp-button">
                                     Buy Now
                                 </Link>
                             </div>
